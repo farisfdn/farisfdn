@@ -31,7 +31,9 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 
 ### GitHub Analytics
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Leshoraa&theme=tokyonight&locale=id)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Leshoraa&theme=tokyonight&locale=id" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
