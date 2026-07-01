@@ -32,7 +32,7 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 ### GitHub Analytics
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Leshoraa&theme=tokyonight&locale=id" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Leshoraa&theme=tokyonight-duo" alt="GitHub Streak" />
   </a>
 </div>
 
