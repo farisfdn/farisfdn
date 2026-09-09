@@ -6,7 +6,6 @@
   <b>Software Engineer | Informatics Student at Universitas Amikom Yogyakarta</b>
 </p>
 
----
 
 ### About Me
 
@@ -16,7 +15,6 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 **Design Philosophy:** Minimalist UI/UX, monochrome aesthetics, and clean architecture.<br>
 🐧**Environment:** Arch Linux, Ubuntu, Windows user (Hyprland, Zen Kernel).<br>
 
----
 
 ### Tech Stack & Tools
 
