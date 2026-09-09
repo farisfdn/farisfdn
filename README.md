@@ -23,7 +23,7 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,react,cpp,cs,ts,python,php,javascript,nextjs,arduino,linux,arch,apple,firebase,vite,bun,mysql,figma,blender,git,flutter,androidstudio&theme=dark" alt="Rendra's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,python,linux,arch,figma,blender,git,androidstudio&theme=dark" alt="Faris's Tech Stack" />
   </a>
 </div>
 
