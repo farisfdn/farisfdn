@@ -34,13 +34,3 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh1aWxycTU0Z3BkdGVuenp5eGpvMHltcnZwMmV3djRtc3lobzkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Pixel Art Animation 1" height="225" /><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkzcXE0aG53YWlkaWE4emFoNDE0ZG8yN2h1aWx0bHljemNncDdwMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Pixel Art Animation 2" height="225" />
 </div>
 
----
-
-### Let's Connect
-
-I am always open to discussing new engineering projects, technical collaborations, or system architecture.
-
-<p align="center">
-  <a href="mailto:leshoraa@gmail.com"><img src="https://img.shields.io/badge/Email-leshoraa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/farisfdn"><img src="https://img.shields.io/badge/Instagram-ren.drra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
