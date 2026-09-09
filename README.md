@@ -14,7 +14,7 @@ I am a software developer from Indonesia, currently pursuing a degree in Informa
 
 **Core Focus:** Full Stack Web Development, Android (Java & React Native), and C++.<br>
 **Design Philosophy:** Minimalist UI/UX, monochrome aesthetics, and clean architecture.<br>
-🐧**Environment:** Arch Linux user since 2025 (Hyprland, Zen Kernel), macOS Hackintosh (Tahoe).<br>
+🐧**Environment:** Arch Linux, Ubuntu, Windows user (Hyprland, Zen Kernel),.<br>
 **Currently Exploring:** Local LLM integration (Ollama) and AI-driven development.
 
 ---
